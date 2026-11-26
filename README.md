@@ -26,20 +26,7 @@ My work focuses on understanding business requirements, mapping business process
 
 ## 🎯 Core Competencies
 
-### 📋 Business Analysis
-
-Requirements Elicitation · Business Process Mapping  
-Functional Documentation · Business Process Improvement
-
-### ⚙️ ERP Implementation
-
-Odoo Functional Analysis · Workflow Configuration  
-Master Data Preparation · Data Import & Validation
-
-### 🤝 Delivery & Collaboration
-
-Stakeholder Communication · Implementation Coordination  
-User Training & Adoption · Go-Live & Post-Go-Live Support
+<img width="100%" src="./assets/core-competencies.svg" alt="Business Analysis: Requirements Elicitation, Business Process Mapping, Functional Documentation, Business Process Improvement; ERP Implementation: Odoo Functional Analysis, Workflow Configuration, Master Data Preparation, Data Import &amp; Validation; Delivery &amp; Collaboration: Stakeholder Communication, Implementation Coordination, User Training &amp; Adoption, Go-Live &amp; Post-Go-Live Support" />
 
 ## 🟣 Odoo ERP & Functional Domains
 
@@ -61,23 +48,7 @@ User Training & Adoption · Go-Live & Post-Go-Live Support
 
 ## 🔄 My ERP Implementation Approach
 
-1. **Discovery**  
-   Understand business goals, pain points and operational challenges.
-
-2. **Requirements Analysis**  
-   Gather, organize and document business and functional requirements.
-
-3. **Process Mapping**  
-   Analyze current workflows and define improved future processes.
-
-4. **Solution Design**  
-   Align requirements with suitable Odoo ERP workflows and modules.
-
-5. **Validation & Training**  
-   Review solution flows, support UAT and help users adapt.
-
-6. **Go-Live & Improvement**  
-   Support deployment, adoption and continuous business improvement.
+<img width="100%" src="./assets/erp-implementation-roadmap.svg" alt="1. Discovery: Understand business goals, pain points and operational challenges.; 2. Requirements Analysis: Gather, organize and document business and functional requirements.; 3. Process Mapping: Analyze current workflows and define improved future processes.; 4. Solution Design: Align requirements with suitable Odoo ERP workflows and modules.; 5. Validation &amp; Training: Review solution flows, support UAT and help users adapt.; 6. Go-Live &amp; Improvement: Support deployment, adoption and continuous business improvement." />
 
 ## 🛠️ Technical Skills & Learning Background
 
