@@ -1,18 +1,3 @@
-<!--
-**mehedihasanpatowary/mehedihasanpatowary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- GitHub Profile README | mehedihasanpatowary -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172033,50:493455,100:875A7B&height=220&section=header&text=Mehedi%20Hasan%20Patowary&fontSize=36&fontColor=ffffff&fontAlignY=36&desc=Senior%20Business%20Analyst%20%7C%20Odoo%20ERP&descSize=17&descAlignY=56" alt="Mehedi Hasan Patowary - Senior Business Analyst" />
@@ -41,12 +26,20 @@ My work focuses on understanding business requirements, mapping business process
 
 ## 🎯 Core Competencies
 
-| Business Analysis | ERP Implementation | Delivery & Collaboration |
-| :--- | :--- | :--- |
-| Requirements Elicitation | Odoo Functional Analysis | Stakeholder Communication |
-| Business Process Mapping | Workflow Configuration | Implementation Coordination |
-| Functional Documentation | Master Data Preparation | User Training & Adoption |
-| Business Process Improvement | Data Import & Validation | Go-Live & Post-Go-Live Support |
+### 📋 Business Analysis
+
+Requirements Elicitation · Business Process Mapping  
+Functional Documentation · Business Process Improvement
+
+### ⚙️ ERP Implementation
+
+Odoo Functional Analysis · Workflow Configuration  
+Master Data Preparation · Data Import & Validation
+
+### 🤝 Delivery & Collaboration
+
+Stakeholder Communication · Implementation Coordination  
+User Training & Adoption · Go-Live & Post-Go-Live Support
 
 ## 🟣 Odoo ERP & Functional Domains
 
@@ -68,14 +61,23 @@ My work focuses on understanding business requirements, mapping business process
 
 ## 🔄 My ERP Implementation Approach
 
-| Step | Focus | Description |
-| :---: | :--- | :--- |
-| 01 | Discovery | Understand business goals, pain points and operational challenges. |
-| 02 | Requirements Analysis | Gather, organize and document business and functional requirements. |
-| 03 | Process Mapping | Analyze current workflows and define improved future processes. |
-| 04 | Solution Design | Align requirements with suitable Odoo ERP workflows and modules. |
-| 05 | Validation & Training | Review solution flows, support UAT and help users adapt. |
-| 06 | Go-Live & Improvement | Support deployment, adoption and continuous business improvement. |
+1. **Discovery**  
+   Understand business goals, pain points and operational challenges.
+
+2. **Requirements Analysis**  
+   Gather, organize and document business and functional requirements.
+
+3. **Process Mapping**  
+   Analyze current workflows and define improved future processes.
+
+4. **Solution Design**  
+   Align requirements with suitable Odoo ERP workflows and modules.
+
+5. **Validation & Training**  
+   Review solution flows, support UAT and help users adapt.
+
+6. **Go-Live & Improvement**  
+   Support deployment, adoption and continuous business improvement.
 
 ## 🛠️ Technical Skills & Learning Background
 
